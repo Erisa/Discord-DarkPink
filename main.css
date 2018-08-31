@@ -252,3 +252,6 @@ background-color: rgba(0,0,0,0.4);
 	background-color: var(--main-color);
 }
 
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .theme-dark .messagesWrapper-3lZDfY {
+    background-color: transparent;
+}
