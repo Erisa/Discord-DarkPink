@@ -1,7 +1,2 @@
-# Colorize
-
-A semi-user friendly theme controlled with a single hex color, just edit the top hex color in the theme file to your own
-
-#
-![https://i.imgur.com/KxFmRq0.gif](https://i.imgur.com/KxFmRq0.gif)
-
+Modified copy of https://github.com/mrmaple240/colorize to suit my personal needs. Also isn't broken.  
+To use for your own colour you may have to change some of the values near the bottom too.
