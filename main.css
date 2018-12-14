@@ -262,3 +262,7 @@ background-color: rgba(0,0,0,0.4);
 .theme-dark .headerNormal-T_seeN {
     background-color: #111214;
 }
+
+.theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
+	var(--accent-color);
+}
